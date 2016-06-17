@@ -1,2 +1,2 @@
 # Modul-133-Formularvalidierung
-Diese JavaScript-Formularvalidierung, war ein Projekt im Rahmen des Moduls 133 an der gibb.
+Im Rahmen vom Modul 133 an der gibb mussten wir als Projekt eine Formularvalidierung mit JavaScript erstellen. Dabei mussten einige Eingaben mit Standard-JavaScript und andere mit jQuery validiert werden
